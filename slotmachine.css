@@ -1,0 +1,60 @@
+#slots .col-1 {
+
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 8px;
+  font-weight: 900;
+  min-width: 70px;
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+body {
+  background: linear-gradient(135deg, #000000, #373d46); 
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  background: url("img9.jpg") no-repeat center center;
+  background-size: cover;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+#mainhd{
+    color: #DFD0B8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-weight: 400; */
+}
+#labelstxt{
+    color: #DFD0B8;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+#bettxt{
+    color: #DFD0B8;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+#slots{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#spinbtn{
+    font-family: 'Times New Roman', Times, serif;
+}
+#message{
+    color: #DFD0B8;
+}
+
+#slot1{
+    background-color: #515356;
+    color: antiquewhite;
+    border-radius: 17px;
+    
+}
+#b1{
+    background-color: #515356;
+}
