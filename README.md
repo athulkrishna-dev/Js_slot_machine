@@ -56,14 +56,7 @@ Open index.html in your preferred browser.
 
 Start spinning and enjoy!
 
-📂 Project Structure
-js-slot-machine/
-│
-├── index.html       # Main HTML file
-├── style.css        # Custom CSS styles
-├── script.js        # JavaScript game logic
-├── assets/          # Images or icons used for reels
-└── README.md        # Project documentation
+
 
 📝 Notes
 
